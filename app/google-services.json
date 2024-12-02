@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168874492654",
+    "project_id": "sahibinden-49aae",
+    "storage_bucket": "sahibinden-49aae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168874492654:android:fb8be5afdb909b2457a9ff",
+        "android_client_info": {
+          "package_name": "com.example.sahibinden"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8PkUC-F3v8W1LkAxcFOjMVOgbb0EGkm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
